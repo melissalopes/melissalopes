@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with backend developer
 - 🌱 I’m currently learning NodeJS 
 - 😄 Pronouns: any pronouns. Remember that respect always comes first.
-- ⚡ Fun fact: .:)
+- ⚡ Fun fact: I'M OBSESSED W BOKU NO HERO :)
 
 <div align="center">
   <a href="https://github.com/melissalopes">
