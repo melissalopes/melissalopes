@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with backend developer
 - 🌱 I’m currently learning NodeJS 
 - 😄 Pronouns: any pronouns. Remember that respect always comes first.
-- ⚡ Fun fact: I'm too lazy to organize my GitHub haha. Ignore the mess :)
+- ⚡ Fun fact: .:)
 
 <div align="center">
   <a href="https://github.com/melissalopes">
