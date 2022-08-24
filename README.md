@@ -1,7 +1,7 @@
 ### Hii, I'm Mel 😃👋
 
 - 🔭 I’m currently working with backend developer
-- 🌱 I’m currently learning NodeJS 
+- 🌱 I’m currently learning AWS 
 - 😄 Pronouns: any pronouns. Remember that respect always comes first.
 - ⚡ Fun fact: I'M OBSESSED W BOKU NO HERO :)
 
