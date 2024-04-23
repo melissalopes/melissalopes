@@ -9,8 +9,8 @@
   <a href="https://github.com/melissalopes">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissalopes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block; padding: 10px"><br>
-  <img align="center" alt="Mel-NodeJs" height="30" width="90" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mel-NodeJs" height="30" width="90" padding="10" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Mel-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Mel-Typescript" height="30" width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Mel-Express" height="30" width="100" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"> 
