@@ -5,9 +5,9 @@
 - 😄 Pronouns: any pronouns. Remember that respect always comes first.
 - ⚡ Fun fact: I'M OBSESSED W BOKU NO HERO :)
 
-<div>
+<div style="display-align: center">
   <a href="https://github.com/melissalopes">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissalopes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissalopes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img alt="Mel-NodeJs" height="30" width="90" style="margin: 10px;" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
