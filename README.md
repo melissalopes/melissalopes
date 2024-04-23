@@ -5,11 +5,6 @@
 - 😄 Pronouns: any pronouns. Remember that respect always comes first.
 - ⚡ Fun fact: I'M OBSESSED W BOKU NO HERO :)
 
-<div align="center">
-  <a href="https://github.com/melissalopes">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=melissalopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissalopes&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mel-Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Mel-Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
