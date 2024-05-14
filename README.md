@@ -1,7 +1,7 @@
 ### Hii, I'm Mel 😃👋
 
 - 🔭 I’m currently working as a Back End Developer
-- 🌱 I’m currently learning Advanced Typescript and AWS 
+- 🌱 I’m currently learning: Clean Architecture, SOLID, Advanced Typescript and AWS 
 - 😄 Pronouns: any pronouns. Remember that respect always comes first.
 - ⚡ Fun fact: I'M OBSESSED W BOKU NO HERO :)
 
